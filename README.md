@@ -1,2 +1,0 @@
-# MFS
-micro-financial startup
